@@ -1,13 +1,13 @@
 # -----------------------------------------------------------------------------
 #                               intersect_point.py
 # =============================================================================
-#  This is a part of geo - A Python package for practical geometry algorithms.
+#  This is a part of geompy - A Python package for practical geometry algorithms.
 #
 #  Last updated: 16 Mar 2023. Copyright (c) 2023 Minh-Chien Trinh
 # -----------------------------------------------------------------------------
 
 import numpy as np
-import check_intersect
+from .check_intersect import check_intersect
 
 
 def intersect_point(line1, line2):

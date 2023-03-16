@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 #                               check_intersect.py
 # =============================================================================
-#  This is a part of geo - A Python package for practical geometry algorithms.
+#  This is a part of geompy - A Python package for practical geometry algorithms.
 #
 #  Last updated: 16 Mar 2023. Copyright (c) 2023 Minh-Chien Trinh
 # -----------------------------------------------------------------------------

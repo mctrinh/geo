@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "geo"
+name = "geompy"
 version = "0.0.1"
 description = "A Python package for practical geometry algorithms."
 authors = [
@@ -20,5 +20,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/mctrinh/geo"
-"Bug Tracker" = "https://github.com/mctrinh/geo/issues"
+"Homepage" = "https://github.com/mctrinh/geompy"
+"Bug Tracker" = "https://github.com/mctrinh/geompy/issues"
