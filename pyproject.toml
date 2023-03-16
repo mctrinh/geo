@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools >= 61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "geo"
+version = "0.0.1"
+description = "A Python package for practical geometry algorithms."
+authors = [
+    { name="Minh-Chien Trinh", email="mctrinh@jbnu.ac.kr"},
+]
+
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/mctrinh/geo"
+"Bug Tracker" = "https://github.com/mctrinh/geo/issues"
