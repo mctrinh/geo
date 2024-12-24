@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="geo",
-    version="0.1.0",
+    version="0.1.1",
     author="Minh-Chien Trinh",
     author_email="mctrinh@jbnu.ac.kr",
     packages=find_packages(),
