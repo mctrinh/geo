@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #29abe2;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #82d6f4;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #3771c2;
+      }
+
+      .cls-6 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 115px;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-3" points="620.71 25.28 177.42 156.82 299.6 203.76 620.71 25.28"/>
+  <polygon class="cls-3" points="363.77 226.05 620.71 25.28 467.97 368.53 363.77 226.05"/>
+  <polygon class="cls-1" points="299.6 203.76 350.54 312.55 363.77 226.05 620.71 25.28 299.6 203.76"/>
+  <polygon class="cls-5" points="350.54 312.55 363.77 226.05 393.51 266.72 350.54 312.55"/>
+  <text class="cls-6" transform="translate(23.81 308.24)"><tspan x="0" y="0">G</tspan><tspan class="cls-2" x="88.66" y="0">E</tspan><tspan class="cls-7" x="165.6" y="0">O</tspan></text>
+  <rect class="cls-4" width="650" height="400"/>
+</svg>
