@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 #                               on_line.py
 # =============================================================================
-#  This is a part of geompy - A Python package for practical geometry algorithms.
+#  This is a part of geo - A Python package for practical geometry algorithms.
 #
-#  Last updated: 16 Mar 2023. Copyright (c) 2023 Minh-Chien Trinh
+#  Last updated: 24 Dec 2024. Copyright (c) 2024 Minh-Chien Trinh
 # -----------------------------------------------------------------------------
 
 

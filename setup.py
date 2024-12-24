@@ -2,15 +2,15 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="geompy",
+    name="geo",
     version="0.0.1",
     author="Minh-Chien Trinh",
-    author_email="mctrinh@jbnu.ac.kr",
+    author_email="tmc.ksxd@gmail.com",
     packages=find_packages(),
     description="A Python package for practical geometry algorithms.",
-    url="https://github.com/mctrinh/geompy",
+    url="https://github.com/mctrinh/geo",
     license="MIT",
     python_requires = ">=3.7",
-    keywords="geometry, geompy",
+    keywords="geometry, geo",
     install_requires = []
 )
