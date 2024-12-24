@@ -5,10 +5,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "geo"
-version = "0.0.1"
+version = "0.1.0"
 description = "A Python package for practical geometry algorithms."
 authors = [
-    { name="Minh-Chien Trinh", email="tmc.ksxd@gmail.com"},
+    { name="Minh-Chien Trinh", email="mctrinh@jbnu.ac.kr"},
 ]
 
 readme = "README.md"

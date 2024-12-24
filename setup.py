@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="geo",
-    version="0.0.1",
+    version="0.1.0",
     author="Minh-Chien Trinh",
-    author_email="tmc.ksxd@gmail.com",
+    author_email="mctrinh@jbnu.ac.kr",
     packages=find_packages(),
     description="A Python package for practical geometry algorithms.",
     url="https://github.com/mctrinh/geo",
